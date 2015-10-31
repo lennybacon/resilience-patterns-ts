@@ -8,6 +8,14 @@
   },
   "author": "Daniel Fisher",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lennybacon/resilience-patterns-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lennybacon/resilience-patterns-ts/issues"
+  },
+  "homepage": "https://github.com/lennybacon/resilience-patterns-ts",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
