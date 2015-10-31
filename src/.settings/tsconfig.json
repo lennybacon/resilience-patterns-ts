@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "target": "es5",
+        "sourceMap": true
+    },
+    "exclude": [
+        "THIS COMES WITH TS 1.6", 
+        "node_modules"
+    ],
+    "files": [
+    ]
+}

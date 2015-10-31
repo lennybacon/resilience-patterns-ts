@@ -1,0 +1,9 @@
+.git*
+*.tgz
+specs*
+node_modules*
+typings*
+tsd.json
+tslint.json
+gulpfile.js
+.settings*

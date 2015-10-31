@@ -1,0 +1,27 @@
+{
+  "name": "resilience-patterns-ts",
+  "version": "1.0.3",
+  "description": "Resilience patterns implemented in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Fisher",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jasmine": "^2.0.1",
+    "gulp-jshint": "^1.11.2",
+    "gulp-shell": "^0.4.2",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-tslint": "^3.3.0",
+    "gulp-typescript": "^2.8.0",
+    "gulp-watch": "^4.3.4",
+    "map-stream": "0.0.6",
+    "orchestrator": "^0.3.7"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  }
+}
